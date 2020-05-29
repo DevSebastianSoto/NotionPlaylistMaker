@@ -3,3 +3,4 @@
 .env
 ss
 __pycache__/
+.vscode/
